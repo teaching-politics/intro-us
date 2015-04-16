@@ -1,6 +1,5 @@
 ---
-title: Assignment 4
-subtitle: Political socialization
+title: Political socialization
 ---
 
 ## Assignment goals
@@ -45,10 +44,13 @@ regarding political ideology and political socialization.
     your church, your school?  Was it a peer group, an opinion leader,
     a political event?
 
+### Format
 
 The assignment should be between 1,200 to 1,900 words long.  This is
 approximately the same as a four to six-page paper, written in a
 12-point font, with inch margins.
+
+### Submission
 
 Upload the assignment to Canvas.
 
