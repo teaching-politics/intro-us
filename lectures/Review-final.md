@@ -26,3 +26,14 @@ SLCC, Spring semester 2015, POLS1100
   - One of the Supreme Court's powers is *judicial review*.  What is *judicial review*?
   - In what case did the Supreme Court claim the power of *judicial review*?
   - How many justices on the Supreme Court?  How many women?  How many African-Americans?
+
+## Civil liberties and civil rights
+  - What are civil liberties?
+  - What are civil rights?
+  - What are some examples of civil liberties?
+  - What are some examples of civil rights?
+  - What are some specific examples of government action to prevent or stop discrimination?
+  - Are civil liberties absolute?  If not, what is the limiting principle (think Locke)?
+  - In Miller v. California, the Supreme Court outlines a test to determine whether speech (or expression) is obscene.  What is the test?
+  - What was Plesssy v. Ferguson about?
+  - What was Brown v. Board of Education about?
